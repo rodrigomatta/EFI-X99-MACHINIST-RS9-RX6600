@@ -1,5 +1,5 @@
 # EFI-X99-MACHINIST-RS9-RX6600
- EFi Machinist RS9 with OpenCore 0.8.7
+ EFi Machinist RS9 with OpenCore 0.8.8
 
 
 ```bash
