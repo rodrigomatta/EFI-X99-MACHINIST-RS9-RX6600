@@ -1,5 +1,5 @@
 # EFI-X99-MACHINIST-RS9-RX6600
- EFi Machinist RS9 with OpenCore 0.8.9
+EFi Machinist RS9 with OpenCore 0.9.0
 
 
 ```bash
@@ -10,5 +10,5 @@ GPU: AMD Radeon RX6600 (8 GB)
 Audio: Realtek ALC897
 SMBIOS: iMacPro1,1
 macOS: Monterey e Ventura
-Opencore: 0.8.9
+Opencore: 0.9.0
 ```
