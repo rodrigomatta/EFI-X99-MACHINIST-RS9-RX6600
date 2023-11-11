@@ -1,5 +1,5 @@
 # EFI-X99-MACHINIST-RS9-RX6600
-- EFI for Machinist X99-RS9
+- EFI for Motherboard Machinist X99-RS9 \
 [![MacOS version](https://img.shields.io/badge/Monterey-12.7.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.6.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.2%20beta-informational.svg)](https://www.apple.com/macos) \
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
