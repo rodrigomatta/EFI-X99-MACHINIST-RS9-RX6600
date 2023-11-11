@@ -9,7 +9,7 @@
 
 | Component        | Model                                              |
 | ---------------- | ---------------------------------------------------|
-| Platform         | LGA 2011-3 | Intel Xeon V3                         |
+| Platform         | LGA 2011-3 - Intel Xeon V3                         |
 | CPU              | Intel Xeon E5-2660 v3, 2600 MHz (10C/20T)          |
 | MotherBoard      | MACHINIST X99-RS9                                  |
 | Wifi             | Fenvi FV-AC1200                                    |
